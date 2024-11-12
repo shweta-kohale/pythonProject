@@ -11,3 +11,5 @@ Quotient = a/b
 Remainder = a%b
 print("Quotient is ",int(Quotient))
 print("Remainder is ",Remainder)
+print(f"Quotient is {Quotient:2f}")
+print(f"Remainder {Remainder}")
